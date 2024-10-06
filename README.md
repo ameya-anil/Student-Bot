@@ -23,5 +23,5 @@ your_project/
 ├── templates/            
 │   └── index.html       
 └── static/            
-    ├── style.css         
-    └── script.js         
+      ├── style.css         
+      └── script.js         
