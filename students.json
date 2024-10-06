@@ -1,0 +1,13 @@
+[
+    {"name": "Fahadh", "roll_number": "001", "age": "20", "marks": "90"},
+    {"name": "Adithya", "roll_number": "002", "age": "20", "marks": "90"},
+    {"name": "Akshay", "roll_number": "003", "age": "20", "marks": "90"},
+    {"name": "Aleta", "roll_number": "004", "age": "20", "marks": "90"},
+    {"name": "Amal", "roll_number": "005", "age": "20", "marks": "90"},
+    {"name": "Ameya", "roll_number": "006", "age": "20", "marks": "90"},
+    {"name": "Amruth", "roll_number": "007", "age": "21", "marks": "90"},
+    {"name": "Anaj", "roll_number": "008", "age": "20", "marks": "90"},
+    {"name": "Anakha", "roll_number": "009", "age": "20", "marks": "90"},
+    {"name": "Anusha", "roll_number": "010", "age": "20", "marks": "90"}
+
+]
