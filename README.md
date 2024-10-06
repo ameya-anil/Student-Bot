@@ -1,4 +1,4 @@
-# Stud# Student Chatbot
+# Student Chatbot
 
 A chatbot application built using Flask that initially collects student details and stores them in a file. After collecting enough data, the chatbot starts to respond to user queries regarding student information. The bot interacts with users through a web interface and provides answers based on the stored data.
 
@@ -17,3 +17,10 @@ A chatbot application built using Flask that initially collects student details 
 - **Frontend:** HTML, CSS, JavaScript
 - **Data Storage:** CSV file
 
+your_project/
+├── app.py                # Main Flask application
+├── templates/            # Folder for HTML files
+│   └── index.html        # Chatbot interface
+└── static/               # Folder for static assets like CSS and JS
+    ├── style.css         # Styling for the interface
+    └── script.js         # Chatbot JavaScript functionality
