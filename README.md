@@ -18,6 +18,7 @@ A chatbot application built using Flask that initially collects student details 
 - **Data Storage:** CSV file
 
 your_project/
+
 ├── app.py                
 ├── templates/            
 │   └── index.html       
