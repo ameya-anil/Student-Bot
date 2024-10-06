@@ -18,9 +18,9 @@ A chatbot application built using Flask that initially collects student details 
 - **Data Storage:** CSV file
 
 your_project/
-├── app.py                # Main Flask application
-├── templates/            # Folder for HTML files
-│   └── index.html        # Chatbot interface
-└── static/               # Folder for static assets like CSS and JS
-    ├── style.css         # Styling for the interface
-    └── script.js         # Chatbot JavaScript functionality
+├── app.py                
+├── templates/            
+│   └── index.html       
+└── static/            
+    ├── style.css         
+    └── script.js         
